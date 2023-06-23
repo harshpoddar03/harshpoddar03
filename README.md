@@ -80,7 +80,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" />
   
-  <br>
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
