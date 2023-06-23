@@ -92,6 +92,7 @@
 
 ## <img src="https://media2.giphy.com/media/gfxpnw3pCUqeLacWJz/giphy.gif?cid=ecf05e47xt3sbq5v0riof1pdr1zq3apfyac89n417gay7m3a&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="35"><b>Connect with Me:</b>
 
+<br>
 
 <a href="https://linkedin.com/in/harshpoddar03" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
