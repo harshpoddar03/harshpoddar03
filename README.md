@@ -89,8 +89,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <br>
-## <img src="https://media2.giphy.com/media/7IePoqhUtP81FzgrT4/giphy.gif?cid=ecf05e47f211oyyx9fve1cm07aml2qw7jnt11td7j1plbgul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b>Connect</b>
-## 🌐 Connect with Me:
+## <img src="https://media2.giphy.com/media/gfxpnw3pCUqeLacWJz/giphy.gif?cid=ecf05e47xt3sbq5v0riof1pdr1zq3apfyac89n417gay7m3a&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b>Connect with Me:</b>
+
 
 <a href="https://linkedin.com/in/harshpoddar03" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
