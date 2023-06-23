@@ -81,6 +81,10 @@
 <br>
 ## <img src="https://giphy.com/embed/FhvYr91bk7zvgJJjGS" width ="25"><b>Connect with Me</b>
 ## 🌐 Connect with Me:
+
+<a href="https://linkedin.com/in/harshpoddar03" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+</a>
 <a href="mailto:harsh.poddar1605@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
@@ -89,9 +93,6 @@
 </a>
 <a href="https://instagram.com/harshp.16" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/harshpoddar03" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@@harsh.poddar1605" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 5px;" />
