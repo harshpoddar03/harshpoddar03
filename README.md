@@ -79,7 +79,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-## <img src="https://giphy.com/embed/FhvYr91bk7zvgJJjGS" width ="25"><b>Connect with Me</b>
+
 ## 🌐 Connect with Me:
 
 <a href="https://linkedin.com/in/harshpoddar03" target="_blank">
