@@ -89,7 +89,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <br>
-## <img src="https://media2.giphy.com/media/gfxpnw3pCUqeLacWJz/giphy.gif?cid=ecf05e47xt3sbq5v0riof1pdr1zq3apfyac89n417gay7m3a&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="35"><b>Connect with Me: </b>
+
+## <img src="https://media2.giphy.com/media/gfxpnw3pCUqeLacWJz/giphy.gif?cid=ecf05e47xt3sbq5v0riof1pdr1zq3apfyac89n417gay7m3a&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="35"><b>Connect with Me:</b>
 
 
 <a href="https://linkedin.com/in/harshpoddar03" target="_blank">
