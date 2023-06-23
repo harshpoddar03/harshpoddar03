@@ -10,7 +10,7 @@
 - 🌍 I'm based in Gurugram,Haryana <br>
 - ✉️ You can contact me at harsh.poddar1605@gmail.com <br>
 - 🧠 I'm currently learning JS frameworks and Blockchain <br>
-- 🤝 I'm open to collaborating on Web develpment and AI&ML projects <br>
+- 🤝 I'm open to collaborating on Web development and AI&ML projects <br>
 - 🧑🏻‍🏫 M.Sc Economics and B.E Computer Sceince and Engineering BITS Pilani Goa 2021-26
 <br>
 
