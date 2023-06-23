@@ -76,8 +76,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=harshpoddar03&show_icons=true&hide=&count_private=true&theme=dark&hide_border=false&show_icons=true" alt="Harsh's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" />
+  
+  <br>
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <br>
 
