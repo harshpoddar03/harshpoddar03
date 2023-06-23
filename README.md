@@ -21,6 +21,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+
 - **Languages**:
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -78,6 +79,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
+## <img src="https://giphy.com/embed/FhvYr91bk7zvgJJjGS" width ="25"><b>Connect with Me</b>
 ## 🌐 Connect with Me:
 <a href="mailto:harsh.poddar1605@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
