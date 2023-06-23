@@ -79,6 +79,9 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 ## 🌐 Connect with Me:
+<a href="mailto:harsh.poddar1605@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshp.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshpoddar03) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harsh.poddar1605) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harshpoddar9273) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
