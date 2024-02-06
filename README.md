@@ -11,6 +11,12 @@
 </div>
 
 <br>
+<br>
+<br>
+<br>
+
+
+<br>
 - 🌍 I'm based in Gurugram,Haryana <br>
 - 🧠 I'm currently learning JS frameworks and Blockchain <br>
 - 🤝 I'm open to collaborating on Web development and AI&ML projects <br>
@@ -88,13 +94,17 @@
   <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" alt="Harsh's GitHub streak" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshpoddar03&show_icons=true&hide=&count_private=true&theme=dark&hide_border=false&show_icons=true" alt="Harsh's GitHub stats" />
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" />
   
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ 
 
 <br>
 
