@@ -117,7 +117,10 @@
 
 <br>
 
-<a href="https://linkedin.com/in/harshpoddar03" target="_blank">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+
+<!-- <a href="https://linkedin.com/in/harshpoddar03" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:harsh.poddar1605@gmail.com" target="_blank">
@@ -131,9 +134,8 @@
 </a>
 <a href="https://medium.com/@@harsh.poddar1605" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 5px;" />
-</a>
+</a> --!>
 
 <br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
