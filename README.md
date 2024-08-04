@@ -100,7 +100,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" alt="Harsh's GitHub streak" />
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" alt="Harsh's GitHub streak" />
 </p>
 
 <p align="center">
