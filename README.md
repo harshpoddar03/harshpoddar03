@@ -99,7 +99,7 @@
   <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
   <div align="center">
     <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" alt="Harsh's GitHub streak" />
   </div>
@@ -118,9 +118,13 @@
   <img src="https://komarev.com/ghpvc/?username=harshpoddar03&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+<br>
+
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+
 
 <!--  ## <img src="https://media2.giphy.com/media/gfxpnw3pCUqeLacWJz/giphy.gif?cid=ecf05e47xt3sbq5v0riof1pdr1zq3apfyac89n417gay7m3a&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="35"><b>Connect with Me:</b>
 
