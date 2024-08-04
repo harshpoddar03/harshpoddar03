@@ -113,6 +113,10 @@
 
 <br>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshpoddar03&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
