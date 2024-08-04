@@ -99,15 +99,13 @@
   <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-<div style="display:flex">
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <div>
     <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpoddar03&theme=dark&hide_border=false" alt="Harsh's GitHub streak" />
-</p>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&layout=compact&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</p>
-
+  </div>
+  <div>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpoddar03&langs_count=10&layout=compact&theme=dark&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </div>
 </div>
 
   
